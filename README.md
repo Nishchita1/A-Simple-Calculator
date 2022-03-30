@@ -8,3 +8,6 @@ It's asimple calculator, "performs basic operations like Addition, Subtraction, 
 ![2022-02-26 (2)](https://user-images.githubusercontent.com/82816210/155834948-1dfbdfb0-5520-4e3f-80cb-4b60cd4f70da.png)
 
 ![2022-02-26 (3)](https://user-images.githubusercontent.com/82816210/155834956-9cd789f8-4816-4cbd-8b73-5393a0b29aaf.png)
+
+https://user-images.githubusercontent.com/82816210/160900903-6b4f392b-a190-4ffc-b862-079d7068be8d.mp4
+
